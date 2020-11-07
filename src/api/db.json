@@ -1,0 +1,16 @@
+{
+  "Inventory": [
+    {
+      "product": "apple",
+      "quantity": 465,
+      "price": 20,
+      "id": 1
+    },
+    {
+      "product": "orange",
+      "quantity": 56,
+      "price": 5,
+      "id": 2
+    }
+  ]
+}
